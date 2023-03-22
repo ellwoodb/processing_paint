@@ -68,7 +68,7 @@ void setup(){
   fill(#000000);
   textSize(20);
   textAlign(CENTER);
-  String welcomeText = "Sie wollten eine Skizze, hier ist eine, aber noch ein bisschen mehr.\nVersuchen Sie mal das Bild noch etwas zu verschönern...";
+  String welcomeText = "Willkommen!";
   text(welcomeText, 400, 170);
 }
 
